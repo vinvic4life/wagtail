@@ -10,7 +10,7 @@ Core team
 * Bertrand Bordage (NoriPyt)
 * Loïc Teixeira (Springload)
 * Andy Chosak (consumerfinance.gov)
-* Will Barton (consumerfinance.gov)
+* Scott Cranfill (consumerfinance.gov)
 * LB Johnston
 * Coen van der Kamp (Four Digits)
 * Codie Roelf (Praekelt)
@@ -335,7 +335,7 @@ Contributors
 * Stas Rudakou
 * Abdulaziz Alfuhigi
 * Dzianis Sheka
-* Scott Cranfill
+* Will Barton
 * gmmoraes
 * Justin Focus
 * Fedor Selitsky
